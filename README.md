@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
-<h3 align="center">A passionate Salesforce developer from Egypt</h3>
+<h3 align="center">A passionate Salesforce developer from Egypt experienced in implementing, configuring and optimizing Salesforce solutions. Skilled in designing and developing custom soluations, workflows, and integrations. Adept at conducting requirements gathering, user training and post-implementation support.Passionate about continuously learning and exploring new Salesforce technologies. Open to networking and collaboration opportunities.</h3>
 
 - 🌱 I’m currently learning **Salesforce Development**
 
