@@ -79,11 +79,12 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msallam64&show_icons=true&locale=en&theme=github_dark" alt="Mohamed Ali's GitHub stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msallam64&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msallam64&show_icons=true&locale=en&theme=github_dark" alt="Mohamed Ali's GitHub stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msallam64&theme=github-dark" alt="Mohamed Ali's GitHub Streak Stats" />
 </p>
