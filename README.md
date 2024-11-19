@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Mohamed+Sallam;Salesforce+Developer;Passionate+About+Building+Solutions!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Mohamed+Sallam;Salesforce+Developer" alt="Typing SVG" /></a>
 </h3>
 
 ---
@@ -77,7 +77,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msallam64&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
